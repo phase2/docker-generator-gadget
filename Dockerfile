@@ -1,4 +1,4 @@
-FROM yeoman
+FROM outrigger/yeoman
 
 ENV YO_P2_VERSION 2.2.0
 ENV PATTERN_LAB_STARTER_VERSION 2.0.0
